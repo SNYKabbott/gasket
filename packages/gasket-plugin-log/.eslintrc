@@ -3,5 +3,6 @@
   "parser": "babel-eslint",
   "plugins": [
     "babel"
-  ]
+  ],
+  "ignorePatterns": "*.d.ts"
 }
