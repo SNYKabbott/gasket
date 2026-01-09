@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@gasket/plugin-config": "^6.17.0",
-    "@gasket/plugin-docs": "^6.17.0",
+    "@gasket/plugin-docs": "^7.5.3",
     "@gasket/plugin-docsify": "^6.17.0",
     "@gasket/plugin-express": "^6.17.1",
     "@gasket/plugin-https": "^6.17.0",
